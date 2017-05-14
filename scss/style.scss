@@ -1,0 +1,48 @@
+
+/* CSS Reset */
+*{
+  box-sizing: border-box;
+  padding: 0;
+  margin: 0;
+}
+html,body{
+  height: 100%;
+}
+._wrapper{
+  //background-color: #f56;
+  display: flex;
+  flex-direction: column;
+  flex-grow: 1;
+  height: 100%;
+  justify-content:center;
+  align-items: center;
+  background: linear-gradient(#fff,#ddd);
+
+  h1{
+    font-size: 5rem;
+    background: -webkit-linear-gradient(#9C27B0, #f56);
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+  }
+
+  .font-1{
+    font-family: 'Bitter', serif;
+  }
+  .font-2{
+    font-family: 'Quicksand', sans-serif;
+  }
+  .font-3 {
+    font-family: 'Ubuntu Condensed', sans-serif;
+  }
+  .font-4 {
+    font-family: 'Patua One', cursive;
+  }
+  .font-5 {
+    font-family: 'Comfortaa', cursive;
+  }
+  .font-6 {
+    font-family: 'Baloo Bhaina', cursive;
+  }
+
+
+}
