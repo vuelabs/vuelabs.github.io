@@ -16,13 +16,24 @@ html,body{
   height: 100%;
   justify-content:center;
   align-items: center;
-  background: linear-gradient(#fff,#ddd);
+  background: #fefefe;
 
   h1{
     font-size: 5rem;
-    background: -webkit-linear-gradient(#9C27B0, #f56);
+    background: -webkit-linear-gradient(#9C27B0,#F44336);
   -webkit-background-clip: text;
   -webkit-text-fill-color: transparent;
+  }
+
+  h1:hover{
+    background: -webkit-linear-gradient(#9C27B0,#673AB7);
+     -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+  }
+  h1:active{
+   background: -webkit-linear-gradient(#E91E63,#E53935);
+     -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
   }
 
   .font-1{
