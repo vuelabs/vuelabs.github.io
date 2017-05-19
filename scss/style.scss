@@ -20,13 +20,13 @@ html,body{
 
   h1{
     font-size: 5rem;
-    background: -webkit-linear-gradient(#9C27B0,#F44336);
+    background: -webkit-linear-gradient(#9C27B0,#673AB7);
   -webkit-background-clip: text;
   -webkit-text-fill-color: transparent;
   }
 
   h1:hover{
-    background: -webkit-linear-gradient(#9C27B0,#673AB7);
+    background: -webkit-linear-gradient(#9C27B0,#F44336);
      -webkit-background-clip: text;
     -webkit-text-fill-color: transparent;
   }
@@ -36,24 +36,11 @@ html,body{
     -webkit-text-fill-color: transparent;
   }
 
-  .font-1{
-    font-family: 'Bitter', serif;
-  }
-  .font-2{
-    font-family: 'Quicksand', sans-serif;
-  }
-  .font-3 {
-    font-family: 'Ubuntu Condensed', sans-serif;
-  }
-  .font-4 {
-    font-family: 'Patua One', cursive;
-  }
+
   .font-5 {
     font-family: 'Comfortaa', cursive;
   }
-  .font-6 {
-    font-family: 'Baloo Bhaina', cursive;
-  }
+
 
 
 }

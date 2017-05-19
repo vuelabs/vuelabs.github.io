@@ -17,11 +17,11 @@ html, body {
   background: #fefefe; }
   ._wrapper h1 {
     font-size: 5rem;
-    background: -webkit-linear-gradient(#9C27B0, #F44336);
+    background: -webkit-linear-gradient(#9C27B0, #673AB7);
     -webkit-background-clip: text;
     -webkit-text-fill-color: transparent; }
   ._wrapper h1:hover {
-    background: -webkit-linear-gradient(#9C27B0, #673AB7);
+    background: -webkit-linear-gradient(#9C27B0, #F44336);
     -webkit-background-clip: text;
     -webkit-text-fill-color: transparent; }
   ._wrapper h1:active {
