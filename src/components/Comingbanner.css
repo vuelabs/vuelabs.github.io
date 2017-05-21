@@ -1,0 +1,8 @@
+
+.the-logo {
+  font-size: 5em;
+  font-family: 'Comfortaa', cursive;
+   background: -webkit-linear-gradient(#9C27B0, #673AB7);
+   -webkit-background-clip: text;
+   -webkit-text-fill-color: transparent;
+}
